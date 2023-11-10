@@ -1,0 +1,6 @@
+- id: pmd
+  name: pmd
+  types: [java]
+  description: Runs PMD.
+  language: coursier
+  entry: pmd
